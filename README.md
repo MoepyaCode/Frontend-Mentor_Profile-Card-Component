@@ -1,4 +1,4 @@
-# Title
+# Profile card component
 
 <!-- add description of project -->
 
